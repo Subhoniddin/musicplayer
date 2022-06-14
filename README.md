@@ -1,4 +1,4 @@
-# create MusicPlayer whith JavaScript ( React-Native ) 
+# create Android MusicPlayer whith JavaScript ( React-Native ) 
 
 #install react-native 
 $ npm npm i react-native
